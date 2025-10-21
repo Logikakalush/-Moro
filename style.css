@@ -84,3 +84,9 @@ article a{
 article img{
     margin: 20px;
 }
+.about-text {
+  font-family: 'Roboto',sans-serif; 
+  font-size: 20px;                
+  line-height: 1.5;                  
+  color: rgb(88, 81, 81);                       
+}
